@@ -1,6 +1,6 @@
 # Hackaton-UAB
 
-Link Notion: https://biancaluna.notion.site/Notion-UABTHEHACK-2a38f536c1c980ab9dd5e4f98021e2d2
+- Notion dashboard (https://www.notion.so/Dashboard-2a56e383a33d8117bd6ae64832349f73?source=copy_link)
 
 GitHub DTIC challenge: https://github.com/albertgilopez/uabthehack-hackathon-2025
 
